@@ -1,0 +1,6 @@
+You are required to make the changes in the hosts file according to the details given below.
+
+Add webnode1 to "web-nodes" group
+Add dbode1 to "db-nodes" group
+Add web-nodes and db-nodes to a common group called "infra-nodes”.
+Create the inventory parameters as mentioned in the below table.

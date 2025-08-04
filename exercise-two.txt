@@ -1,0 +1,5 @@
+Execute the Ansible ad-hoc command and perform the following tasks from the Ansible control server.
+
+Check the network connectivity of all the target nodes 
+Install vsftpd package on web-nodes
+Check the disk usage of all the target nodes
